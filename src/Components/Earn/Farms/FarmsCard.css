@@ -1,0 +1,219 @@
+.farm__card {
+  width: 360px;
+  height: 500px;
+  /* left: 544.5px;
+    top: 550px; */
+
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(5px) !important;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5) !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.5) !important;
+  border-left: 1px solid rgba(255, 255, 255, 0.5) !important;
+  box-sizing: border-box;
+  border-radius: 10px !important;
+}
+
+.show-btn {
+  text-align: center;
+  cursor: pointer;
+  background: none;
+  background-color: none;
+  border: none;
+  outline: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  color: #9a6aff;
+}
+
+.more-details {
+  margin-top: -10px;
+  width: 360px;
+  height: 195px;
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(5px) !important;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5) !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.5) !important;
+  border-left: 1px solid rgba(255, 255, 255, 0.5) !important;
+  box-sizing: border-box;
+  font-family: "Poppins";
+  padding-left: 30px;
+  padding-top: 25px;
+}
+
+.total_liq {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  color: white;
+}
+
+.more__links {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  color: #706d89;
+}
+
+.more-details > div > p > span {
+  color: white;
+  margin-left: 10px;
+}
+
+.span-links {
+  margin-top: 10px;
+}
+
+.amt {
+  margin-left: 80px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.farm__card__header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+.header_coin {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.core {
+  background: #08060b;
+  border: 2px solid #9a6aff;
+  border-radius: 23px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  color: #ffffff;
+  width: 82px;
+  height: 25px;
+}
+
+.discount {
+  height: 12px !important;
+  height: 12px !important;
+  margin-left: 0;
+}
+
+.power {
+  background: #9a6aff;
+  color: white;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  width: 50px !important;
+  height: 25px;
+  border-radius: 23px;
+  text-align: center !important;
+  outline: none;
+  border: none;
+  margin-left: 8px;
+}
+
+.farms__wallet {
+  background: #242372;
+  width: 90%;
+  height: 40px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  display: block;
+  margin: 40px auto;
+}
+
+.body__top{
+    margin-top: 0;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+color: #FFFFFF;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.calc{
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.body__bottom > p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  color: #9a6aff;
+}
+
+.body__bottom__span {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  color: #706d89;
+}
+
+.harvest__amt {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  color: #706d89;
+}
+
+.harvest-btn {
+ width: 109px;
+ height: 45px;
+  background: rgba(18, 18, 18, 0.2);
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  color: #706D89;
+  font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+}
+
+.body_bottom_mid{
+    display: flex;
+    justify-content: space-between;
+}

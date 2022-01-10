@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;900&display=swap');
+
+/* .navbar{
+    position: sticky;
+    top: 0;
+} */
+a{
+    color: #242372 !important;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+margin-left: 5px;
+margin-right: 8px;
+text-decoration: none !important;
+}
+img{
+    height: 35px !important;
+    width: 31px !important;
+    margin-left: 20px;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 700px;
+}
+
+.logo-right{
+    width: 32px !important;
+    height: 32px !important;
+    margin-right: 5px;
+}
+
+.balance{
+    color: #242372;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 18px;
+}
+
+.settings{
+    color: #242372;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.world{
+    height: 16.25px !important;
+    width:16.25px !important;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.wallet{
+    background: #242372;
+    border-radius: 29px;
+    width: 133px;
+height: 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 15px;
+color: white;
+border: none;
+outline: none;
+}
+
+.brand-name{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 24px;
+    color: #242372;
+    margin-left: 5px;
+}
+
+.nav-list{
+    margin-left: 30px;
+}
+
+.navlink{
+    text-decoration: none;
+    color: inherit;
+}

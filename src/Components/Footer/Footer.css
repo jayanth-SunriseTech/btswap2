@@ -1,0 +1,154 @@
+.footer__page{
+    overflow-x: hidden;
+    background-color: #1C152F;
+    color: white;
+    padding-bottom: 70px;
+}
+
+h4{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+color: #9A6AFF;
+text-align: center;
+}
+
+
+li{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+margin-bottom: 5px;
+cursor: pointer;
+}
+
+.list{
+    align-items: center;
+}
+
+.about-list{
+list-style: none;
+align-items: center;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+color: white !important;
+margin-top: 100px;
+margin-left: 100px;
+}
+
+li:first-child{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+color: #9A6AFF;
+text-align: center;
+}
+
+.footer__brand{
+    width: 161px;
+    height: 51px;
+    margin-top: 100px !important;
+}
+
+.footer__logo_brand{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 22px;
+line-height: 33px;
+margin-left: 8px;
+}
+
+.online{
+    color: #C5C434;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+
+right: 50%;
+margin-left: 125px;
+width: 50%;
+}
+.online:after{
+    content: "";
+    display: block;
+    width: 3%;
+    margin-left: 127px;
+    border-bottom: 1px solid #C5C434;
+}
+
+.social-media-icons{
+    color: #827f8b;
+    margin-top: 20px;
+    margin-left: 125px;
+}
+
+.social-icon{
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+.world-footer{
+    width: 16px !important;
+    height: 16px !important;
+    margin-right: 5px;
+    margin-left: 125px;
+}
+
+.footer-language{
+    color: #504F8E;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+}
+
+.footer-balance{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 18px;
+color: #E5E5E5;
+margin-left: 10px;
+}
+
+.footer-btn{
+    color: #242372;
+    background-color: white;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 15px;
+border-radius: 29px;
+width: 133px;
+height: 30px;
+border: none;
+outline: none;
+margin-left: 25px;
+}
+
+@media(min-width:360px) {
+    .footer__page{
+        display: flex;
+        flex-direction: column;
+        padding-top: 20px;
+    }
+
+    /* .footer-list{
+        display: grid !important;
+       grid-template-columns: 1fr 1fr;
+       
+    } */
+}
