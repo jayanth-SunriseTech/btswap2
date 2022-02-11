@@ -5,6 +5,10 @@
     display: flex !important;
     position: relative !important;
   }
+
+  .title__btns > a  {
+    color: #9a6aff !important;
+  }
   
   /* .title__btns > span {
     background: none ;
@@ -63,6 +67,14 @@
     background: none; */
     /* color: #9a6aff; */
     /* border-bottom: 2px solid #9a6aff;  */
+  }
+
+  .exchange_btn{
+color: rgb(67, 67, 170);
+  }
+
+  .liquidity_btn{
+    color: rgb(67, 67, 170);
   }
 
   .active{

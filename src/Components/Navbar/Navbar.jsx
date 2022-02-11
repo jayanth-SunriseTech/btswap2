@@ -75,8 +75,10 @@ console.log(walletConnect);
     <div className="navPage">
       <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">
+          <Link to='/'>
           <img src="Logo.png" className="logo"></img>
           <span className="brand-name">BT Swap</span>
+          </Link>
         </a>
         <button
           class="navbar-toggler"

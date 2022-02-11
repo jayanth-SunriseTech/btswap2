@@ -104,7 +104,7 @@ function TradeExchange() {
               <input className="inp__1" type="text" placeholder="0.00" />
             </div>
             <button className="trade__wallet">CONNECT WALLET</button>
-            <Connect/>
+            
           </div>
         </div>
       </div>
